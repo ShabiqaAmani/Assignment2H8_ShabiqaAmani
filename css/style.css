@@ -1,0 +1,69 @@
+.w-980{
+    width:980px;
+    background-color: #F0F0F0;
+    margin-top: 50px;
+    height: fit-content;
+    padding-bottom: 60px;
+}
+
+.rounded-corners{
+    border-radius: 5px;
+}
+.navbar-brand{
+    font-size: large;
+}
+
+.nav-item{
+    font-size: medium;
+}
+
+.centered{
+    text-align: center;
+}
+
+.centered-button{
+    margin: 0 auto;
+    display: block;
+    
+}
+
+.w-225{
+    width: 225px;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+
+.first-card{
+    margin-left: 20px;
+}
+.card-title{
+    font-size: large;
+}
+
+.card-text{
+    font-size: x-small;
+}
+
+.MainTitle{
+    font-weight:500;
+    padding-top: 60px;
+}
+
+.w-980 button{
+    margin-top: 50px;
+}
+
+.right{
+    display: block;
+    float: right;
+}
+
+.footer{
+    bottom: 0;
+    width: 100%;
+    margin-top: 75px;
+    background-color: rgba(155, 148, 148, 0.24);
+}
+
+
+
